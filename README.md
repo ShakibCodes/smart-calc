@@ -1,21 +1,21 @@
 # Smart Calculator
 
-**Hey, it's me [ShakibCodes](https://github.com/ShakibCodes)!** 👋  
+**Hey, it's me [ShakibCodes](https://github.com/ShakibCodes)!**   
 
-## 🚀 Overview
+##  Overview
 Smart Calc is a sleek and modern calculator built using HTML, CSS, and JavaScript. It provides basic arithmetic operations with an intuitive UI and smooth button animations.
 
-## ✨ Features
+##  Features
 - Clean and responsive design
 - Hover and press effects for buttons
 - Basic arithmetic operations (+, -, *, /, %)
 - Smooth animations and transitions
 - Lightweight and fast
 
-## 📸 Screenshot
+##  Screenshot
 ![Smart Calc](images/calc.png)
 
-## 🔧 Installation & Usage
+##  Installation & Usage
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/your-username/smart-calc.git
@@ -26,17 +26,17 @@ Smart Calc is a sleek and modern calculator built using HTML, CSS, and JavaScrip
    ```
 3. **Open `index.html` in your browser**
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **HTML** - Structure
 - **CSS** - Styling & animations
 - **JavaScript** - Functionality
 
-## 🌐 Live Demo
+##  Live Demo
 [View Smart Calc Online](https://ShakibCodes.github.io/smart-calc/)
 
-## 🤝 Contributing
+##  Contributing
 Feel free to fork this project, make improvements, and submit a pull request!
 
-## 📜 License
+##  License
 This project is open-source and available under the [MIT License](LICENSE).
 
