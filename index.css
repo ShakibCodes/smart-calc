@@ -38,9 +38,9 @@ body {
     overflow-x: hidden;
     overflow-y: hidden;
     background-color: transparent;
-    -webkit-user-select: none; /* Safari */
-    -ms-user-select: none; /* IE 10 and IE 11 */
-    user-select: none; /* Standard syntax */
+    -webkit-user-select: none; 
+    -ms-user-select: none; 
+    user-select: none; 
     position: relative;
 }
 
@@ -49,9 +49,6 @@ table {
     width: var(--window-width);
 }
 
-/* tr {
-    width: var(--window-width) ;
-} */
 
 td {
     height: calc(var(--window-height) / 6);
@@ -65,13 +62,13 @@ td {
    
 }
 td:active {
-    background-color: #2a7300 !important; /* Darker shade on press */
-    transform: scale(0.95); /* Pressed effect */
+    background-color: #2a7300 !important; 
+    transform: scale(0.95); 
 }
 
 td:hover {
-    background-color: #73e577; /* Lighter green */
-    transform: scale(1.05); /* Slight pop effect */
+    background-color: #73e577; 
+    transform: scale(1.05);
 }
 
 tr:nth-child(2) td {
@@ -113,7 +110,7 @@ tr td:last-child:hover {
 
 
 tr:last-child td {
-    /* background-color: red!important; */
+    
     height: calc(var(--window-height) / 7 + 2px) !important;
 }
 tr td:last-child:active {
